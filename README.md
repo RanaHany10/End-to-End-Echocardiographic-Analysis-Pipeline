@@ -7,6 +7,11 @@
 [![Torchvision](https://img.shields.io/badge/Library-Torchvision-2C5E9E?logo=python&logoColor=white)](https://pytorch.org/vision/stable/)
 [![TorchMetrics](https://img.shields.io/badge/Evaluation-TorchMetrics-5932a8?logo=python&logoColor=white)](https://torchmetrics.readthedocs.io/en/stable/)
 
+[![OpenCV](https://img.shields.io/badge/Library-OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
+[![NumPy](https://img.shields.io/badge/Library-NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![pandas](https://img.shields.io/badge/Library-pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![timm](https://img.shields.io/badge/Library-timm-000000?logo=python&logoColor=white)](https://github.com/huggingface/pytorch-image-models)
+
 [![UNet](https://img.shields.io/badge/Backbone-U--Net-4B8BBE)](https://github.com/milesial/Pytorch-UNet)
 [![SAM](https://img.shields.io/badge/Foundation_Model-SAM-FF8800)](https://github.com/facebookresearch/segment-anything)
 [![MedSAM](https://img.shields.io/badge/Foundation_Model-MedSAM-8E44AD)](https://github.com/bowang-lab/MedSAM)
@@ -17,13 +22,17 @@
 
 [![Angular](https://img.shields.io/badge/Frontend-Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/)
 [![TailwindCSS](https://img.shields.io/badge/UI-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 [![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/API-Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
 [![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 
+[![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Axios](https://img.shields.io/badge/Library-Axios-5A29E4?logo=axios&logoColor=white)](https://axios-http.com/)
+[![RESTful APIs](https://img.shields.io/badge/API-RESTful-00C853?logo=rest-api&logoColor=white)](https://restfulapi.net/)  
+
 [![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![AWS S3](https://img.shields.io/badge/Storage-AWS_S3-FF9900?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/s3/)
-
 
 ---
 
